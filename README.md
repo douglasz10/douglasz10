@@ -1,16 +1,27 @@
-### Hi there 👋
+### 👨‍🦲 Olá!!!
 
-<!--
-**douglasz10/douglasz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Douglas Gonçalves Ferreira
 
-Here are some ideas to get you started:
+QA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formado em Ciência da Computação | Pós Graduação em Engenharia de Qualidade de Software
+
+Apaixonado em aprender e automação de testes
+
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasz10&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasz10&layout=compact&theme=tokyonight"/>
+</div>
+
+### 📚 Meu contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-g-ferreira-95ab8422/)
+
+### 🧰 Tecnologias
+
+<div>
+<img align="center" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
+</div>
